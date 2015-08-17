@@ -17,5 +17,5 @@ How to build and Run
     %> sbt run
    ```
 
-   It will download needed dependencies, including Scala and ScalaFX, and run 
+   It will download needed dependencies, including Scala, ScalaFX and Akka, and run
    the example code. 
